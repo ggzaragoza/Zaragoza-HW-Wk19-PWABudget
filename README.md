@@ -9,9 +9,9 @@ In this repository you will find files for a budgeting app that receives user in
 
 <img width="500" src="./screenshots/IMG_8092.jpg">
 
-<img width="500" src="./screenshots/IMG_8091.png">
+<img width="500" src="./screenshots/IMG_8091.PNG">
 
-<img width="500" src="./screenshots/IMG_8090.png">
+<img width="500" src="./screenshots/IMG_8090.PNG">
 
 ## Table of Contents
 - [Installation](#installation)
